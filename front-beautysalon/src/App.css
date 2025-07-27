@@ -1,0 +1,4 @@
+/* This file uses Tailwind CSS directives. Make sure your build tool is configured to use PostCSS with Tailwind. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
